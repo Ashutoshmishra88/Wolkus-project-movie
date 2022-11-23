@@ -12,7 +12,7 @@
  
  git  clone https://github.com/Ashutoshmishra88/Wolkus-project-movie.git
  
- cd Wolkus_Assignment
+ cd Wolkus-project-movie 
  
  code ...
  
